@@ -1,0 +1,29 @@
+.cl-footerActionLink{
+    display: none;
+}
+.cl-footerActionText{
+    display: none;
+}
+
+.cl-avatarBox{
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 60px;
+    width: 60px;
+}
+
+.fl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.mb{
+    margin-right: 15px;
+}
+
+.inputsMarginBtn{
+    margin-bottom: 15px;
+}
+

@@ -1,0 +1,25 @@
+@media screen and (min-width: 1000px){
+    .main {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .commande {
+        width: 30rem;
+    } 
+
+    .tab{
+        margin-right: 30px;
+    }
+}
+
+
+@media screen and (max-width: 1000px) {
+    .commande {
+        margin-top: 30px;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+}
